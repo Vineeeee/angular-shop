@@ -1,4 +1,10 @@
 
+# Loja virtual: Happy Shop
+
+Loja Virtual: Happy Shop
+
+Este projeto é uma simulação de uma loja virtual, similar à Amazon, com funcionalidades como: criação de login, visualização de produtos, filtragem e categorização de itens, adição de produtos ao carrinho de compras e a simulação do processo de pagamento.
+
 ## Status do Projeto
 Atualmente, estamos enfrentando dificuldades para realizar o deploy do projeto em um ambiente de produção. Portanto, o projeto deve ser executado localmente. Abaixo, você encontrará as instruções detalhadas para rodar o projeto no seu ambiente local.
 
